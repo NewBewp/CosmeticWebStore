@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using WebBanMyPhan.Models;
+using AspNetCoreHero.ToastNotification.Abstractions;
 
 namespace WebBanMyPhan.Areas.Admin.Controllers
 {
@@ -13,15 +14,17 @@ namespace WebBanMyPhan.Areas.Admin.Controllers
     public class AdminRolesController : Controller
     {
         private readonly soryami_MyPhamDBContext _context;
+        public INotyfService _notyfService { get; }
 
-        public AdminRolesController(soryami_MyPhamDBContext context)
+        public AdminRolesController(soryami_MyPhamDBContext context, INotyfService notyfService)
         {
             _context = context;
+            _notyfService = notyfService;
         }
 
         // GET: Admin/AdminRoles
         public async Task<IActionResult> Index()
-        {
+        {            
             return View(await _context.Roles.ToListAsync());
         }
 
@@ -60,6 +63,7 @@ namespace WebBanMyPhan.Areas.Admin.Controllers
             {
                 _context.Add(role);
                 await _context.SaveChangesAsync();
+                _notyfService.Success("Tao moi thanh cong");
                 return RedirectToAction(nameof(Index));
             }
             return View(role);
@@ -99,11 +103,13 @@ namespace WebBanMyPhan.Areas.Admin.Controllers
                 {
                     _context.Update(role);
                     await _context.SaveChangesAsync();
+                    _notyfService.Success("Cap nhat thanh cong");
                 }
                 catch (DbUpdateConcurrencyException)
                 {
                     if (!RoleExists(role.RoleId))
                     {
+                        _notyfService.Success("Co loi");
                         return NotFound();
                     }
                     else
@@ -142,6 +148,7 @@ namespace WebBanMyPhan.Areas.Admin.Controllers
             var role = await _context.Roles.FindAsync(id);
             _context.Roles.Remove(role);
             await _context.SaveChangesAsync();
+            _notyfService.Success("Da xoa quyen truy cap");
             return RedirectToAction(nameof(Index));
         }
 

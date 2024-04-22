@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\models\\soryami_myphamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\models\\soryami_myphamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\models\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\views\\shared\\_headerpartialview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\views\\checkout\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|e:\\kien\\do_an_chuyen_nganh_github\\webbanmyphan\\webbanmyphan\\webbanmyphan\\modelviews\\muahangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{577A2740-45FA-4254-BEA3-A1C987B7DB04}|WebBanMyPhan\\WebBanMyPhan.csproj|solutionrelative:webbanmyphan\\modelviews\\muahangvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Models\\Account.cs",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Models\\Account.cs",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Models\\Account.cs",
+              "RelativeToolTip": "WebBanMyPhan\\Models\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:54:47.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Models\\Product.cs",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Models\\Product.cs",
+              "RelativeToolTip": "WebBanMyPhan\\Models\\Product.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:54:41.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Startup.cs",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Startup.cs",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Startup.cs",
+              "RelativeToolTip": "WebBanMyPhan\\Startup.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwEgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:54:34.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Program.cs",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Program.cs",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Program.cs",
+              "RelativeToolTip": "WebBanMyPhan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:54:32.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "soryami_MyPhamDBContext.cs",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Models\\soryami_MyPhamDBContext.cs",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Models\\soryami_MyPhamDBContext.cs",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Models\\soryami_MyPhamDBContext.cs",
+              "RelativeToolTip": "WebBanMyPhan\\Models\\soryami_MyPhamDBContext.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wBwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:54:29.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_HeaderPartialView.cshtml",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "RelativeToolTip": "WebBanMyPhan\\Views\\Shared\\_HeaderPartialView.cshtml",
+              "ViewState": "AQIAAKwBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T04:48:12.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Views\\Checkout\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Views\\Checkout\\Index.cshtml",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Views\\Checkout\\Index.cshtml",
+              "RelativeToolTip": "WebBanMyPhan\\Views\\Checkout\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T04:48:12.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "WebBanMyPhan\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAAAIQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T04:48:12.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MuaHangVM.cs",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\ModelViews\\MuaHangVM.cs",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\ModelViews\\MuaHangVM.cs",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\ModelViews\\MuaHangVM.cs",
+              "RelativeToolTip": "WebBanMyPhan\\ModelViews\\MuaHangVM.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wBYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:48:12.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Controllers\\CheckoutController.cs",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "WebBanMyPhan\\Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:48:12.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Views\\Product\\Details.cshtml",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "WebBanMyPhan\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAFgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-22T04:48:12.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "WebBanMyPhan\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "E:\\Kien\\do_an_chuyen_nganh_github\\WebBanMyPhan\\WebBanMyPhan\\WebBanMyPhan\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "WebBanMyPhan\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAcwIAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T04:48:12.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

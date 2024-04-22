@@ -4,6 +4,7 @@ namespace WebBanMyPhan.Areas.Admin.Controllers
 {
     public class HomeController : Controller
     {
+
         [Area("Admin")]
         public IActionResult Index()
         {
