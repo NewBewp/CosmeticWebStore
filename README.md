@@ -1,1 +1,1 @@
-### This is my first project
+Setup DB Conection in appsettings.json
