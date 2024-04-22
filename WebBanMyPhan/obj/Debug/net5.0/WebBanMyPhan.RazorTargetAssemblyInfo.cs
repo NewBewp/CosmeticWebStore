@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebBanMyPhan")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8a62c62b75648bd39ae4b1b6512a26417e9e655")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b3831379afeefc79dd9d3a84985cdf5500ccf550")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebBanMyPhan.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
